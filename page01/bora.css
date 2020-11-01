@@ -1,0 +1,37 @@
+.botao{
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    margin-left: 30%;
+}
+
+.botaoBaixo{
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+
+.page-landing{
+    align-content: center;
+
+}
+body{
+    background-color:black;
+}
+
+#printNum{
+    color:white;
+}
+
+*{
+    margin: 0;
+}
+
+p { 
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    font-size: 60px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.initial {
+    color: white;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.textin {
+    color: white;
+    font-size: 20px;
+}
+
+#demo{
+    color: white;
+    font-size: 20px;
+}
+
+#minhoca{
+    color: white;
+    font-size: 20px;
+}
+
+#minhoca2{
+    color: white;
+    font-size: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
