@@ -1,2 +1,2 @@
 # stackdevPlay
-just playing around
+just playing around with web development
